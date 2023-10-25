@@ -13,15 +13,18 @@ This Movie Search App is a web application built with React.js, styled using Tai
 
 
 
-2. Mobile Version:![Mobile_View](https://github.com/somashekar17/MovieSearchApp/assets/49157790/1d39a495-687c-48ee-9660-575bbed10bd4)
+2. Mobile Version:
+  
+  
+   ![Mobile_View](https://github.com/somashekar17/MovieSearchApp/assets/49157790/1d39a495-687c-48ee-9660-575bbed10bd4)
 
 
 
-3. Searchbar:![SearchBar](https://github.com/somashekar17/MovieSearchApp/assets/49157790/709bd988-0a93-4389-b40f-71e870e18797)
+6. Searchbar:![SearchBar](https://github.com/somashekar17/MovieSearchApp/assets/49157790/709bd988-0a93-4389-b40f-71e870e18797)
 
 
 
-4. Result:![resulT](https://github.com/somashekar17/MovieSearchApp/assets/49157790/549cf913-9616-43f0-bf33-24d6da7d04e2)
+7. Result:![resulT](https://github.com/somashekar17/MovieSearchApp/assets/49157790/549cf913-9616-43f0-bf33-24d6da7d04e2)
 
 
 ## Features
